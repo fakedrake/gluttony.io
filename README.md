@@ -1,5 +1,5 @@
-![codeship.io](https://codeship.io/projects/1551a390-c766-0131-6868-2a057a666bab/status)
-# gluttony.io
+[![codeship.io](https://codeship.io/projects/1551a390-c766-0131-6868-2a057a666bab/status)](https://www.codeship.io/projects/22160/)
+# [gluttony.io](http://gluttony.heroku.io)
 
 All your RSS, atom and social feeds in one place.
 
