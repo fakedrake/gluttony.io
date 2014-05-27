@@ -1,3 +1,4 @@
+![codeship.io](https://codeship.io/projects/1551a390-c766-0131-6868-2a057a666bab/status)
 # gluttony.io
 
 All your RSS, atom and social feeds in one place.
